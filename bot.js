@@ -14,7 +14,7 @@ client.on('message', message => {
 
   let prefixe = message.content.split(" ")[0];
 
-  if(message.channel.id === '375306523263500288'){
+  if(message.channel.id === '375320406590226447'){
 
     if(prefixe.toLowerCase() === '!role') {
 
